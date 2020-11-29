@@ -40,8 +40,8 @@ html,body{
 .ank{
     position: absolute;
     width: 60%;
-    height: 500px;
-    background: url(_.png);
+    height: 525px;
+    background: url(bigflower.png);
     background-size: cover;
 }
 #one{
